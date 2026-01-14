@@ -14,9 +14,9 @@ I bridge the gap between high-performance gaming and modern web technologies. I 
 <a href="https://bsky.app/profile/NeelFrostrain"><img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
 <a href="https://discord.gg/DPVHTzeGQj"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://instagram.com/NeelFrostrain"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/neel-frostrain-240328389"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/neel-frostrain-240328389"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/NeelFrostrain"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
-<a href="https://www.youtube.com/@CyronicGames"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a href="https://youtube.com/@CyronicGames"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 <a href="mailto:neelfrostrain@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -33,12 +33,14 @@ I bridge the gap between high-performance gaming and modern web technologies. I 
 ---
 
 # 📊 GitHub Stats:
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NeelFrostrain&theme=dark&show_icons=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeelFrostrain&theme=dark&layout=compact&hide_border=true" width="48%" />
+</p> -->
 
-![Neel's Stats](https://github-readme-stats.vercel.app/api?username=NeelFrostrain&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeelFrostrain&layout=compact&theme=dark)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=NeelFrostrain&theme=dark)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NeelFrostrain&theme=dark&hide_border=true" width="100%" />
+</p>
 
 ---
 
