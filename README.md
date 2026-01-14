@@ -1,18 +1,57 @@
-# 💫 About Me:
-Game Developer & Full-Stack Web Enthusiast<br>I bridge the gap between high-performance gaming and modern web technologies. I spend my days building worlds in Unreal/Unity and my nights experimenting with React.<br><br>🛠 My Toolkit<br>Game Dev: Unreal Engine (C++, BP), Unity (C#) — Singleplayer & Multiplayer<br>Web Dev: React, Next.js, Tailwind CSS<br>Backend: Node.js, Express, MongoDB, MySQL<br>Desktop: Electron (Built my own web browser!)
+# 💫 About Me
 
+### **Game Developer & Full-Stack Web Enthusiast**
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/NeelFrostrain) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/DPVHTzeGQj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@NeelFrostrain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/neel-frostrain-240328389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/NeelFrostrain) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@CyronicGames) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neelfrostrain@gmail.com) 
+I bridge the gap between high-performance gaming and modern web technologies. I spend my days building immersive worlds in **Unreal & Unity** and my nights architecting sleek interfaces with **React**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NeelFrostrain&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NeelFrostrain&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeelFrostrain&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+* 🎮 **Game Dev:** Specialized in C++, C#, and Multiplayer systems.
+* 🌐 **Web Dev:** Full-stack explorer using the MERN stack and Next.js.
+* 🖥️ **Desktop:** Built a custom web browser using Electron.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NeelFrostrain&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="[https://bsky.app/profile/NeelFrostrain](https://bsky.app/profile/NeelFrostrain)"><img src="[https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/bluesky-0285FF%3Fstyle%3Dfor-the-badge%26logo%3Dbluesky%26logoColor%3Dwhite)" /></a>
+<a href="[https://discord.gg/DPVHTzeGQj](https://www.google.com/search?q=https://discord.gg/DPVHTzeGQj)"><img src="[https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Discord-%25237289DA.svg%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite)" /></a>
+<a href="[https://instagram.com/NeelFrostrain](https://www.google.com/search?q=https://instagram.com/NeelFrostrain)"><img src="[https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Instagram-%2523E4405F.svg%3Fstyle%3Dfor-the-badge%26logo%3DInstagram%26logoColor%3Dwhite)" /></a>
+<a href="[https://www.linkedin.com/in/neel-frostrain-240328389](https://www.google.com/search?q=https://www.linkedin.com/in/neel-frostrain-240328389)"><img src="[https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite)" /></a>
+<a href="[https://x.com/NeelFrostrain](https://www.google.com/search?q=https://x.com/NeelFrostrain)"><img src="[https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/X-black.svg%3Fstyle%3Dfor-the-badge%26logo%3DX%26logoColor%3Dwhite)" /></a>
+<a href="[https://www.youtube.com/@CyronicGames](https://www.google.com/search?q=https://www.youtube.com/%40CyronicGames)"><img src="[https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/YouTube-%2523FF0000.svg%3Fstyle%3Dfor-the-badge%26logo%3DYouTube%26logoColor%3Dwhite)" /></a>
+<a href="mailto:neelfrostrain@gmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite)" /></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### 🕹️ Game Development
+
+### 🌐 Web & Desktop
+
+---
+
+## 📊 My GitHub Journey
+
+<p align="center">
+<img src="[https://github-readme-stats.vercel.app/api?username=NeelFrostrain&theme=dark&show_icons=true&hide_border=true](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DNeelFrostrain%26theme%3Ddark%26show_icons%3Dtrue%26hide_border%3Dtrue)" width="48%" />
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=NeelFrostrain&theme=dark&layout=compact&hide_border=true](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DNeelFrostrain%26theme%3Ddark%26layout%3Dcompact%26hide_border%3Dtrue)" width="48%" />
+</p>
+
+<p align="center">
+<img src="[https://nirzak-streak-stats.vercel.app/?user=NeelFrostrain&theme=dark&hide_border=true](https://www.google.com/search?q=https://nirzak-streak-stats.vercel.app/%3Fuser%3DNeelFrostrain%26theme%3Ddark%26hide_border%3Dtrue)" width="100%" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+* **Custom React Browser:** A desktop web browser built from scratch using Electron and React.
+* **Multiplayer Experiences:** Various projects in UE5 and Unity focusing on networked gameplay.
+
+<p align="center">
+<img src="[https://visitcount.itsvg.in/api?id=NeelFrostrain&icon=0&color=0](https://visitcount.itsvg.in/api?id=NeelFrostrain&icon=0&color=0)" />
+</p>
+
+---
