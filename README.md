@@ -5,19 +5,19 @@ I bridge the gap between high-performance gaming and modern web technologies. I 
 
 * 🎮 **Game Dev:** Specialized in C++, C#, and Multiplayer systems.
 * 🌐 **Web Dev:** Full-stack explorer using the MERN stack and Next.js.
-* 🖥️ **Desktop:** Built a custom web browser using Electron and React.
+* 🖥️ **Desktop:** Built custom engine utilities and desktop platforms using Electron and React.
 
 ---
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://bsky.app/profile/NeelFrostrain"><img src="https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
-<a href="https://discord.gg/DPVHTzeGQj"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-<a href="https://instagram.com/NeelFrostrain"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/neel-frostrain-240328389"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/NeelFrostrain"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
-<a href="https://youtube.com/@CyronicGames"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-<a href="mailto:neelfrostrain@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://bsky.app/profile/NeelFrostrain"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=0285FF&labelColor=24292e&color=24292e" /></a>
+<a href="https://discord.gg/DPVHTzeGQj"><img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?logo=discord&logoColor=5865F2&labelColor=24292e&color=24292e" /></a>
+<a href="https://instagram.com/NeelFrostrain"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=E4405F&labelColor=24292e&color=24292e" /></a>
+<a href="https://linkedin.com/in/neel-frostrain-240328389"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=0077B5&labelColor=24292e&color=24292e" /></a>
+<a href="https://x.com/NeelFrostrain"><img src="https://img.shields.io/badge/X-Follow-ffffff?logo=x&logoColor=ffffff&labelColor=24292e&color=24292e" /></a>
+<a href="https://youtube.com/@CyronicGames"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube&logoColor=FF0000&labelColor=24292e&color=24292e" /></a>
+<a href="mailto:neelfrostrain@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=EA4335&labelColor=24292e&color=24292e" /></a>
 </p>
 
 ---
@@ -25,24 +25,14 @@ I bridge the gap between high-performance gaming and modern web technologies. I 
 # 💻 Tech Stack:
 
 ### 🕹️ Game Development
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?logo=unrealengine&logoColor=white&labelColor=24292e&color=313131) ![Unity](https://img.shields.io/badge/Unity-ffffff?logo=unity&logoColor=white&labelColor=24292e&color=000000) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&labelColor=24292e&color=00599C) ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&labelColor=24292e&color=239120) ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&labelColor=24292e&color=F5792A)
 
 ### 🌐 Web & Desktop
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=61DAFB&labelColor=24292e&color=20232a) ![Next JS](https://img.shields.io/badge/Next.js-ffffff?logo=next.js&logoColor=white&labelColor=24292e&color=000000) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white&labelColor=24292e&color=38B2AC) ![Electron.js](https://img.shields.io/badge/Electron-478CBF?logo=electron&logoColor=white&labelColor=24292e&color=191970) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&labelColor=24292e&color=6DA55F) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white&labelColor=24292e&color=4ea94b) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&labelColor=24292e&color=4479A1)
 
 ---
 
 # 📊 GitHub Stats:
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeelFrostrain&theme=dark&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeelFrostrain&theme=dark&layout=compact&hide_border=true" width="48%" />
-</p> -->
-
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=NeelFrostrain&theme=dark&hide_border=true" width="100%" />
 </p>
-
-
-<!-- <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=NeelFrostrain&icon=0&color=0" />
-</p> -->
