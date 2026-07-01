@@ -1,6 +1,10 @@
 # About Me:
 ### **Game Developer & Full-Stack Web Enthusiast**
 
+<p align="left">
+  <a href="https://discord.gg/DPVHTzeGQj"><img src="https://i.imgur.com/LP9bZQj.png"></a>
+</p>
+
 I bridge the gap between high-performance gaming and modern web technologies. I spend my days building immersive worlds in **Unreal & Unity** and my nights architecting sleek interfaces with **React**.
 
 * **Game Dev:** Specialized in C++, C#, and Multiplayer systems.
